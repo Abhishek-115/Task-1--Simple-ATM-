@@ -1,0 +1,4 @@
+ git clone https://github.com/Abhishek-115/Simple-ATM-Simulator.git
+cd Simple-ATM-Simulator/src
+javac SimpleATM.java
+java SimpleATM
